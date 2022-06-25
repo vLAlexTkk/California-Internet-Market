@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+  @apply font-normal leading-52 font-readexpro text-black-900
+};
+
+span{
+  @apply font-normal leading-17 uppercase text-14 font-inter text-black-900
+}
