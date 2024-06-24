@@ -29,7 +29,7 @@ const Footer = () => {
           <div className="flex flex-col items-center pb-6 space-y-4 lg:items-start">
             <Image src="/logo/logo.svg" width={170} height={21} />
             <p className="font-inter">
-              Sign up for texts to be notified about <br /> our best offers on the perfect gifts.
+              Sign for texts to be notified about <br /> our best offers on the perfect gifts.
             </p>
           </div>
           <div className="pb-4 space-y-6 text-center">
